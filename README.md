@@ -93,4 +93,4 @@ Hospital staff tracked OPD admissions, bed occupancy, and billing manually, with
 
 **Arnav Kaushal**
 B.Tech — CSE, Chandigarh Group of Colleges, Jhanjeri
-Guided by Mr. Rahul Dev Singh
+
